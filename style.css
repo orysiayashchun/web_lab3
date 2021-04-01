@@ -1,0 +1,12 @@
+
+#table th {
+  font-weight: bold;
+  padding: 5px;
+  background: #f1fd0d;
+  border: 1px solid #dddddd;
+}
+#table td {
+  border: 1px solid #dddddd;
+  padding: 5px;
+  background: #efefef;
+}
